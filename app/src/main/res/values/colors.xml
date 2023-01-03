@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#f0f3f5</color>
+    <color name="colorAccent">#0f5257</color>
+    <color name="colorForumTopic">#686c6e</color>
+    <color name="colorTitle">#0f5257</color>
+    <color name="colorReplies">#f0f3f5</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>

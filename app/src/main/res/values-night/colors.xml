@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#131415</color>
+    <color name="colorPrimary">#232324</color>
+    <color name="colorAccent">#c9cdcf</color>
+    <color name="colorForumTopic">#c9cdcf</color>
+    <color name="colorTitle">#f0f3f5</color>
+    <color name="colorReplies">#363841</color>
+</resources>
