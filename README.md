@@ -1,5 +1,5 @@
 # SkyscrapercityClient
-Unofficial Hybrid Android Client done for Skyscrapercity.com.<br>
+Unofficial Hybrid Android Client for Skyscrapercity.com.<br>
 Works using the csrf cookie from the website.
 It also implements webview for displaying posts and jsoup for scraping.
 ## Features
